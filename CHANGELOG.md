@@ -4,6 +4,12 @@ All notable changes to `tilttek/weather` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## 0.1.4-alpha - 2026-11-24
+
+### Changed
+
+- `tilttek/dice` 0.3 required: 0.2 is no longer accepted.
+
 ## 0.1.3-alpha - 2026-11-20
 
 ### Changed
